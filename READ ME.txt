@@ -1,0 +1,25 @@
+Instalação de Dependências
+
+Pode instalar as dependências necessárias para correr a aplicação, executando o seguinte comando:
+pip install -r requirements.txt
+
+Configuração e Execução da Dash App
+
+python simulacao_utentes.py
+python app.py
+
+Configuração e Execução da Dash App - Listas
+
+python simulacao_listas.py
+python app_listas.py
+
+Geração de Gráfico de Consultas
+
+python simulacao_equipas.py
+python grafico-consultas-ultimo-ano.py
+
+Recursos Adicionais
+O arquivo priority.py é um recurso adicional não implementado.
+
+Assets
+O diretório assets contém o logo referente aos ACeS Baixo Vouga e o arquivo style.css para a Dash App.
